@@ -9,13 +9,13 @@ Below is a list of the projects for the Spring 2025 semester.
 # Compummunity Projects
 ## Pitt Street Medicine Team
 ### Pitt Street Medicine Go Service Web Application
-*Objective:* The objective of this capstone project is to develop a multimodal accessible website application for individuals served by Street Medicine at Pitt, including those at the Second Avenue Commons Clinic. The project's focus is to allow individuals to request/order necessities, including food, beverages, clothing, toiletries, basic medical supplies, and other supplies as needed, in addition to Street Medicine at Pitt’s weekly Wednesday evening “street rounds,” and make modifications as appropriate based on client feedback.
+**Objective:** The objective of this capstone project is to develop a multimodal accessible website application for individuals served by Street Medicine at Pitt, including those at the Second Avenue Commons Clinic. The project's focus is to allow individuals to request/order necessities, including food, beverages, clothing, toiletries, basic medical supplies, and other supplies as needed, in addition to Street Medicine at Pitt’s weekly Wednesday evening “street rounds,” and make modifications as appropriate based on client feedback.
 
-*Background:* Street Medicine at Pitt is a student-run interdisciplinary organization dedicated to providing healthcare and social support to the rough-sleeping and unhoused communities in Pittsburgh. The organization is affiliated with the University of Pittsburgh School of Medicine, which recently established the Center for Street Medicine. Street Medicine at Pitt partners with the Second Avenue Commons Clinic, which provides shelter access, medical services, and engagement centers for adults experiencing homelessness in Pittsburgh.
+**Background:** Street Medicine at Pitt is a student-run interdisciplinary organization dedicated to providing healthcare and social support to the rough-sleeping and unhoused communities in Pittsburgh. The organization is affiliated with the University of Pittsburgh School of Medicine, which recently established the Center for Street Medicine. Street Medicine at Pitt partners with the Second Avenue Commons Clinic, which provides shelter access, medical services, and engagement centers for adults experiencing homelessness in Pittsburgh.
 
-More information: https://www.streetmedatpitt.org/home
+More information: [https://www.streetmedatpitt.org/home](https://www.streetmedatpitt.org/home)
 
-*Project Goals:*
+**Project Goals:**
 
 Priority Areas:
 - Improve round schedule algorithms - assignment system to be more scale-based (team leader, volunteer, clinician, etc. and assign those volunteers to the rounds)
@@ -41,15 +41,16 @@ Technologies:
 - MySQL, MongoDB
 
 Team Size: 3-4 students
+
 POC: Victoria Bacchi (VMB35@pitt.edu), Nick Cao (RUC36@pitt.edu), Anna Marie White (whitea3@upmc.edu), Helena Clara maria Oft (Oft.Helena@medstudent.pitt.edu), Max Hurwitz (MBH39@pitt.edu)
 
 ## Pittsburgh Policy Initiative 
 ### Pittsburgh Food Access Map
 
-*Objective:*
+**Objective:**
 The objective of this food access map project is to revitalize and expand an interactive Pittsburgh Food Access Map. The tool will enable users—including Pitt students, community members, and nonprofits—to locate food resources throughout the city, such as grocery stores, corner stores, farmers’ markets, food pantries, and mutual aid sites. The initial phase of the project will prioritize a streamlined, functional version of the platform with a core set of essential features. This ensures the tools is accessible, reliable, and useful from the outset, while leaving room for additional features to be incorporated as capacity allows. In this way, the updated map will serve as both a community resource to improve food security and a research tool to inform advocacy and policymaking.
 
-*Background:*
+**Background:**
 Food insecurity is a persistent challenge in Pittsburgh, with many neighborhoods lacking consistent access to affordable, healthy food. In 2019, Code for Good Pittsburgh developed a food access map that helped visualize food deserts and the availability of resources. However, the tool is no longer maintained, and much of the information is outdated.
 
 The Pittsburgh Policy Initiative (PPI), Pitt’s premier student-run think tank, is working to bring the map back to life as part of its Food Security project team. The project will merge technical development with community engagement, creating a sustainable and user-friendly platform that supports both everyday residents and local policy discussions around food security.
@@ -58,7 +59,7 @@ More information:
 - [Pittsburgh Policy Initiative](https://pghpolicy.org/)
 - [Code for Pittsburgh](https://codeforpittsburgh.github.io/FoodAccessMap/index.html)
 
-Project Goals and Deliverables:
+**Project Goals and Deliverables:**
 
 Priority Areas:
 
@@ -81,23 +82,24 @@ Secondary Areas:
 3. Gather feedback from community members and stakeholders to refine the tool and ensure it provides value beyond existing platforms.
 
 Team Size: 2-4 students
+
 POC: Shanthi Bhaskar (shb175@pitt.edu), Riya Lakhe (ril31@pitt.edu), Andrew Pruden (asp161@pitt.edu), Maddox Zimmerman (mal665@pitt.edu)
 
 ## Borges Center
 ### Borges Site Migration
-*Summary:*
+**Summary:**
 The [Borges Center’s website](https://www.borges.pitt.edu/) must be migrated from Drupal to OpenScholar.  The primary goal is to maintain the site's existing design, structure, and functionality between platforms to the largest extent possible. Technical skills required for this project include knowledge of Content Management Systems (CMS) such as Drupal, as well as web development expertise in PHP, HTML, CSS, and JavaScript.  Prior experience with payment gateway services such as Authorize.net is also needed to facilitate the transition of the shopping cart feature.
 
 There are some unique challenges to this project, ones that most developers will encounter somewhere during their professional careers.  The first challenge is that the project team will not have any documentation about the existing functionality.  Further, the person(s) who built the site no longer work for the University and therefore are not available to answer questions about the site; executive decisions will need to be made that allow the site to continue to operate as faithfully as possible to the existing functionality and using the current design. This project also requires the team to ensure a seamless cutover between platforms. Lastly, the site will need to be developed in such a way that there is no planned, manual intervention required.   
 
-*Project Team*
+**Project Team**
 
 The ideal team for this project is 3-4 students. 
 - Systems Analyst  
 - Web Developer/Programmers (1-2)  
 - Data Migration Specialist 
 
-*Required Skills*
+**Required Skills**
 - PHP
 - Javascript/Ajax/jQuery
 - HTML
@@ -105,6 +107,7 @@ The ideal team for this project is 3-4 students.
 - SQL  
 
 Team Size: 3-4 students
+
 POC: Amy Lynn Wildman (amywildman@pitt.edu)
 
 # Corporate Projects
@@ -112,18 +115,18 @@ POC: Amy Lynn Wildman (amywildman@pitt.edu)
 Note: CGI projects will need an NDA.
 
 ### CGI Web App
-*Project Description:*
+**Project Description:**
 
 The goal of this project is for the students to build the foundation for a web application, implementing Spring API framework and Angular UI, to be used as an internal use case by CGI employees. This initiative will expose students to Agile, Scrum-based software development framework with weekly Stand Ups and regular Tech Reviews with the client. Students will be responsible for preparing specified deliverables on a 2-week release cycle following industry standards. Developing in Java, the students will create a functioning SpringBoot API utilizing built-in H2 service for database administration. Collaboration with CGI will be through weekly ceremonies, Trello and Microsoft Teams, and source control will be handled using GitHub.
 
-*Outcome for Students:*
+**Outcome for Students:**
 - Learning SDLC while using Agile Methodologies 
 - Utilizing 2-week sprints and introductions to Agile ceremonies 
 - Using project management software to track progress of work through the semester 
 - Separating application flows depending on user access
 - Live Demo of the working product to CGI leadership 
 
-*Technologies:*
+**Technologies:**
 - SpringBoot (written in Java) controls the backend of the application
 - Angular (written with HTML, CSS, and TypeScript) for JSON data collection and frontend development
 - MySQL for database creation and management
@@ -137,7 +140,8 @@ POC: Anastasia Mokhon (anastasia.mokhon@cgi.com).
 ### RAG Chatbot
 We propose developing a Retrieval-Augmented Generation (RAG) chatbot that answers user queries using information retrieved from a curated knowledge base. Instead of relying solely on a language model, the chatbot retrieves relevant passages from uploaded documents (e.g., policies, FAQs, financial guides) and uses them to generate fact-based, cited answers. This approach improves accuracy and transparency compared to a plain LLM.
 
-Key Components & Technologies
+**Key Components & Technologies**
+
 - Document Ingestion: Students parse PDFs/HTML/DOCX, split into manageable chunks, and store them with metadata.
 - Vector Search (Retrieval): Using an open-source vector database like FAISS, Chroma,
 - Generation: An LLM (OpenAI, Anthropic, or open source like LLaMA via Ollama/vLLM) generates answers grounded in retrieved text.
@@ -152,6 +156,7 @@ Overall Student Benefits
 - Cloud-independent; runs locally with Docker, enabling cost-free experimentation.
 
 Team Size: 2-4 students
+
 POC: TBD
 
 # Faculty Projects
@@ -187,11 +192,11 @@ POC: Ben Rottman (rottman@pitt.edu), Professor of Psychology at Pitt; Stephen Le
 
 Project Introduction: Falls are one of the leading causes of injury, loss of independence, and even death among older adults. Timely identification of abnormal gait patterns or mobility decline is critical for preventing falls. However, existing solutions—such as in-home surveillance cameras or phone-based tracking—are often limited by location, compliance, or privacy concerns. In this project, we aim to develop a novel, long-term gait monitoring system using Meta’s Aria smart glasses to passively and continuously capture first-person data from the wearer's perspective.
 
-*Why Egocentric Vision?*
+**Why Egocentric Vision?**
 
 Egocentric (first-person) monitoring offers unique advantages over conventional fixed-camera or handheld methods. Unlike smartphones, which require active operation and can be easily forgotten or misplaced, smart glasses are worn passively and naturally integrate into daily routines. Unlike wall-mounted cameras, which are limited to fixed locations and often unavailable in the homes of independently living seniors, wearable smart glasses move with the user—enabling context-aware, room-independent gait analysis during real-world activities. This makes egocentric vision particularly valuable for long-term monitoring in diverse environments, including the homes of seniors who live alone.
 
-*Research Goals and Impact*
+**Research Goals and Impact**
 
 By collecting and analyzing synchronized video, pose, and motion data through Aria’s advanced sensor suite (including IMU and SLAM), we aim to identify subtle gait changes that precede falls. The ultimate goal is to build predictive models that can raise early warnings and assist caregivers or clinicians in timely interventions. The broader impact lies in enabling scalable, privacy-conscious, and ecologically valid fall-risk assessment—paving the way for safer aging-in-place for millions of older adults.
 
@@ -224,9 +229,9 @@ POC: Longfei Shangguan (LONGFEI@pitt.edu)
 
 ## Stephen Lee
 ### Designing Home Audit App for identify Leakage in Buildings
- 
-Objective
-This project focuses on the design and development of a mobile application that helps homeowners identify air leaks around windows, a major source of energy loss in residential buildings. The app aims to promote energy-efficient behavior by increasing awareness and providing actionable recommendations, such as sealing techniques or window upgrades. We have a prototype built using the Flutter framework. You will be responsible for 
+
+**Objective:**
+This project focuses on the design and development of a mobile application that helps homeowners identify air leaks around windows, a major source of energy loss in residential buildings. The app aims to promote energy-efficient behavior by increasing awareness and providing actionable recommendations, such as sealing techniques or window upgrades. We have a prototype built using the Flutter framework. You will be responsible for
 - improving the front-end interface
 - developing the back-end functionality of the app. 
 - evaluate existing models and build ML pipeline to analyze thermal images
@@ -242,7 +247,7 @@ POC: Stephen Lee (Stephen.lee@pitt.edu) and Benjamin Rottman (ROTTMAN@pitt.edu)
 ## Rosta Farzan
 ### Tracking and Scheduling System
 
-Project description:
+**Project description:**
 This project is supervised by Rosta Farzan and is in collaboration with the University of Pittsburgh Community Engagement Center (CEC). The goal of the project is to work with the staff at the CEC to design and implement a system to support their needs in managing reservation, inventory of the equipment, archives of instruction and documents, as well as scheduling programs. The system can be designed as a mobile or web application.
 
 I am seeking a group of 3 or 4 students. Students with a background in web development and/or HCI and user experience would be ideal for this project.
