@@ -689,12 +689,12 @@ Team Size: 3-4 students
 POC: Griffin J. Hurt (griffhurt@pitt.edu), Jacob Biehl (biehl@pitt.edu)
 
 
-## Scott Jordan
+## Emma Jordan
 ### Autonomous Driving from Human feedback for RC Cars
 I have two remote controllable RC cars with cameras and Nvidia Jetson GPUs. I would like to develop a system for them that can be used to teach the cars to drive around various areas and race each other. The software for these systems needs work is simple and I would like to build out tooling that will allow for it to easily record user controlled demonstrations, run the cars autonomously, and be able to give feedback to the car on how well it is doing. I also need functionality developed to do some learning from demonstration to create a model that can be used to drive the car autonomously. There is lots of room for innovation in this project and to do both AI work and software engineering. If you are interested in AI, autonomous systems, or edge devices this could be a great project for you.
 
 Team Size: 3-4 students
 
-POC: Scott Jordan (scott.jordan@pitt.edu)
+POC: Emma Jordan (scott.jordan@pitt.edu)
 
 
