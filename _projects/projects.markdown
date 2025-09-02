@@ -155,9 +155,9 @@ Overall Student Benefits
 - Emphasis on responsible AI (fact-grounding, citation, guardrails).
 - Cloud-independent; runs locally with Docker, enabling cost-free experimentation.
 
-Team Size: 2-4 students
+Team Size: 4 students
 
-POC: TBD
+POC: Sandeep Pamarthi (sandeep.pamarthi@cgi.com)
 
 # Faculty Projects
 ## Benjamin Rottman
@@ -269,3 +269,69 @@ Team Size: 2-4 students
 POC: Nadine von Frankenberg (vonfrankenberg@pitt.edu)
 
 
+## Daniel Mosse
+### Sensing the Built Environment: Data Collection and Analysis for Sennott Square 
+
+**Objectives**: This project will create an easy-to-use and cost-conscious infrastructure to collect data in Pitt buildings.  We will collect data in Sennott Square, targeting the 5th and 6th floors, using temperature and humidity sensors, specifically the Govee Thermo-Hygrometer device.  The data collected will help Pitt’s Facilities Management (FM) improve building energy optimization and temperature/humidity comfort.  For example, FM has “occupied” and “unoccupied” schedules, with different temperature/humidity setpoints; we will detect these schedules and let them know. 
+
+Initial data collection revealed no significant temperature differences between weekends and weekdays, suggesting a lack of HVAC optimization based on occupancy or schedules. This project aims to expand upon these findings by conducting more extensive data collection and analysis in Sennott Square (which will serve as an exemplar for other buildings). 
+
+The student is expected to: 
+
+Become familiar with the functionality of Govee sensors+hubs, and the current initial deployment.
+
+Improve the data monitoring and collection to deploy more sensors to collect data from various rooms.  Show that the deployment has small error (<1%) throughout the data collection.  This process should be automated, that is, no human intervention aside from placing sensors in the right locations. 
+
+Create a software infrastructure to export the data to a repository (perhaps reverse engineer the communication protocol), analyze the data (see next item), and produce daily summary reports, for example how much data was collected, alert users if number of samples is lower than expected (i.e., the system is not working as intended), etc. This process should also be automated. 
+
+Process and analyze the collected data to identify patterns and reverse engineer HVAC schedules (i.e., determine whether heating and cooling schedules are programmed based on seasonal variations, weekends, working days, or working hours). This process should be automated, that is, no human intervention aside from placing sensors in the right locations. 
+
+We also want to do similar analysis for data collected in a residential building, time permitting.
+
+
+**Requirements**: excellent programming, independent work, keeping to a schedule, class in Data Mining or Machine Learning a plus.
+
+Team Size: 2 students 
+
+Points of Contact (POC): Daniel Mosse (mosse@pitt.edu) and Ousmane Dieng (oud5@pitt.edu)
+
+### Concept Extraction
+**Background**: Concept Maps (CPMs) are a combination of a the knowledge that students will learn in a course (that is, concepts), and the relationships between these concepts. The two projects are related, and two teams will likely work on each separately for 2 months and combine the projects at the end.  Both projects will use similar or the same data, and thus it will be expected that both teams share critical information that they've learned with each other to help improve their results.  These research projects will hopefully yield scholarly papers to be published.
+
+The goal is to extract concepts from instructor course materials, namely from PowerPoint or other forms of slideshows.  Students will be expected to go beyond text, and examine things like text formatting, text placement, images, and animations, when determining what is considered an important concept.  If the group deems it helpful, they may also examine other materials from the course, such as syllabi, assessments, or the textbook(s) and other reading materials.  Students MAY utilize LLMs in some capacity to determine the concepts, but it will likely not be as simple as submitting materials directly to an LLM to examine.
+
+**Requirements**: 
+1. Students must have taken and passed a course in AI, ML, NLP, Deep Learning, Data Mining, Data Science, or other related topic or subtopic.
+2. Students should know or be willing to learn how to use LLMs programmatically (ie, thru the API) in a short amount of time.  Note that we will not expect nor require students to train an LLM from scratch, but other techniques like fine-tuning or utilizing RAG is considered a plus.
+3. Students should be willing to work with others and divide work as equally as possible.
+4. Students will be required to meet with the project managers once a week for updates and direction.
+
+Team Size: 2-?
+
+POC: Daniel Mosse (mosse@pitt.edu)
+### Relationship Mining
+
+**Background**: Concept Maps (CPMs) are a combination of a the knowledge that students will learn in a course (that is, concepts), and the relationships between these concepts. The two projects are related, and two teams will likely work on each separately for 2 months and combine the projects at the end.  Both projects will use similar or the same data, and thus it will be expected that both teams share critical information that they've learned with each other to help improve their results.  These research projects will hopefully yield scholarly papers to be published.
+
+The goal is to extract the prerequisite relationships of concepts from instructor course materials, namely from PowerPoint or other forms of slideshows, when concepts are already determined.  A prerequisite relationship is defined as the relation between two concepts, such that one concept must be learned prior to being able to understand the subsequent concept.  Students will be expected to go beyond text, and examine things like text formatting, text placement, images, and animations, when determining if one concept is a prerequisite of another.  If the group deems it helpful, they may also examine other materials from the course, such as syllabi, assessments, or the textbook(s) and other reading materials.  Students MAY utilize LLMs in some capacity to determine the concept relationships, but it will likely not be as simple as submitting images of the slides directly to an LLM to examine.
+
+**Requirements**: 
+1. Students must have taken and passed a course in AI, ML, NLP, Deep Learning, Data Mining, Data Science, or other related topic or subtopic.
+2. Students should know or be willing to learn how to use LLMs programmatically (ie, thru the API) in a short amount of time.  Note that we will not expect nor require students to train an LLM from scratch, but other techniques like fine-tuning or utilizing RAG is considered a plus.
+3. Students should be willing to work with others and divide work as equally as possible.
+4. Students will be required to meet with the project managers once a week for updates and direction.
+
+Team Size: 2-?
+
+POC: Daniel Mosse (mosse@pitt.edu)
+
+
+## Peter Brusilovsky
+### Creating Problems for Learning Programming with an LLM
+We have developed a system for creating worked examples and problems for learning programming in several languages, using LLM to generate explanations for examples and distractors for problems.
+
+Now we need help in creating actual examples using this system, using high-quality code from faculty and textbooks, complementing this code with problem statements, generating explanations, and editing it to ensure corrections. We need students with good knowledge at least in one of the following languages - Java, C, C++, Python, SQL. No need to know all, one is enough. Since we need high quality, we need to make sure that each product is checked by at least 2 students. A team of 2-3 students, given the scope of the work, will suffice. Students interested in CS education would be most welcome. It is a good chance to explore the power of LLM as well.
+
+Team Size: 2-3 students
+
+POC: Peter Brusilovsky (peterb@pitt.edu)
