@@ -306,7 +306,7 @@ The goal is to extract concepts from instructor course materials, namely from Po
 3. Students should be willing to work with others and divide work as equally as possible.
 4. Students will be required to meet with the project managers once a week for updates and direction.
 
-Team Size: 2-?
+Team Size: 2-3
 
 POC: Daniel Mosse (mosse@pitt.edu)
 ### Relationship Mining
@@ -321,7 +321,7 @@ The goal is to extract the prerequisite relationships of concepts from instructo
 3. Students should be willing to work with others and divide work as equally as possible.
 4. Students will be required to meet with the project managers once a week for updates and direction.
 
-Team Size: 2-?
+Team Size: 2-3
 
 POC: Daniel Mosse (mosse@pitt.edu)
 
