@@ -335,3 +335,54 @@ Now we need help in creating actual examples using this system, using high-quali
 Team Size: 2-3 students
 
 POC: Peter Brusilovsky (peterb@pitt.edu)
+
+## Luís Oliveira
+### Demonstrator for the CS department
+ 
+If you ever wadered through the 6th Floor in Sennott Square, you've seen the small cabinet with a few old computers - and more recently a old Disk platter.
+ 
+> What?? You haven't? What are you waiting for? Anyway...
+ 
+This semester, one of the projects we have in mind is to expand that small corner to include some interactive demonstrations.
+The interactive part will involve program a Raspberry Pi to interact with some capacitive buttons.
+Then, you'll build a simple GUI to help people navigate the different demonstrations. The capacitive buttons will be used to navigate this GUI.
+This is a good opportunity for you to get some experience dealing with hardware and how to use it with a Raspberry Pi.
+ 
+
+Finally, your team will come up with a couple of cool CS concepts, and demonstrations of those concepts.
+For example: Logic circuits and how they work, algorithmic complexity, memory translation and access.
+Your own ideas will also be welcomed.
+ 
+* Skills you should have (or be willing to learn on your own!):
+    - Python/C/C++ - any of these should do, and others are probably also fine!
+    - CS0449 (CS1550 would be even better)
+    - Front-end/GUI experience would help with the GUI parts (nothing too advanced)
+
+
+Team size: 3-4 people
+
+Point of contact: Luis Oliveira (loliveira@pitt.edu) and Matt Barbosa
+
+### Measuring latency in the Linux network stack
+ 
+This project involves developing a Time Division Multiple Access (TDMA) network-traffic scheduler within the Linux kernel. You are taking a kernel module developed in a previous semester, and work on the configuration from user space. We’ll build a simple demo application using it, and measure the overheads using extended Berkley Packet Filter. The team will continue work done in a past semester by another capstone. They researched eBPF and how to take measurements.
+You will pick this work, and measure the delays of two mechanisms to buffer and delay messages. One in the Kernel, and one in userspace.
+ 
+
+Prerequisite: Must have taken CS1550.
+Languages: C
+ 
+Team size: 3–4 students
+ 
+POC: Luís Oliveira (loliveira@pitt.edu)
+
+### Interactive Web App
+
+Using Svelte to build an interactive application like logisim. This work started last Spring, but the tool is missing some functionality. For example, subcircuits. The objective for this semester is to continue development that allows this tool to completely replace logisim. The first couple of weeks are expected to be dedicated to your understanding and re-deployment of existing code. During that period, you will (with my help) plan the changes and development for the rest of the semester. The initial goals will be the support and editing of subcomponents. Once that goal is achieved, we'll work in other functional issues - e.g. connector behaviour, and tunnels - at your choice.
+ 
+
+* Languages: Javascript/Svelte.
+
+* Team size: 3–4 students
+
+* POC: Luís Oliveira (loliveira@pitt.edu)
