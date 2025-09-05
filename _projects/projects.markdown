@@ -6,7 +6,7 @@ permalink: /projects/
 # Capstone Project List
 Below is a list of the projects for the Spring 2025 semester. 
 
-# Compummunity Projects
+# Community Projects
 ## Pitt Street Medicine Team
 ### Pitt Street Medicine Go Service Web Application
 **Objective:** The objective of this capstone project is to develop a multimodal accessible website application for individuals served by Street Medicine at Pitt, including those at the Second Avenue Commons Clinic. The project's focus is to allow individuals to request/order necessities, including food, beverages, clothing, toiletries, basic medical supplies, and other supplies as needed, in addition to Street Medicine at Pitt’s weekly Wednesday evening “street rounds,” and make modifications as appropriate based on client feedback.
