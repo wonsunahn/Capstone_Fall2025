@@ -19,7 +19,11 @@ The presentations will be given in the order they are listed on the particular d
 
 ## WEEK 3 (Week of 12 SEP)
   
-* Student Presentations
+* Ly Nguyen
+* Sage Yanoff
+* Michael Puthumana
+* Brett Dionne
+* Lucas Loepke
   
 ## WEEK 4 (Week of 19 SEP)
 
