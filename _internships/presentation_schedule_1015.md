@@ -107,6 +107,10 @@ The presentations will be given in the order they are listed on the particular d
 
 ## WEEK 15 (Week of 5 DEC)
 
-* Student Presentations
+* Caroline Curtis
+* Jeremy Byrne
+* Cole Caron
+* Heather Diegert
+* Stanley Teng
   
 **[[[ Best Capstone Speaker awards ]]]**
