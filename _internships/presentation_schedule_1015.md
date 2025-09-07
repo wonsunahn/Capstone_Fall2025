@@ -27,15 +27,27 @@ The presentations will be given in the order they are listed on the particular d
   
 ## WEEK 4 (Week of 19 SEP)
 
-* Student Presentations
+* Michael Canavan
+* Danny Cohen
+* Kyle Zheng
+* Theo Zervos
+* Vladimir Deianov
 
 ## WEEK 5 (Week of 26 SEP)
 
-* Student Presentations
+* Aidan Ohara
+* Connor Clifford
+* Dylan Sparkenbaugh
+* Jace Martin
+* Wesley Hakanen
 
 ## WEEK 6 (Week of 3 OCT)
 
-* Student Presentations
+* Brayden Nguyen
+* Daniel Peelen
+* Gabi Fernandes
+* Cole Embleton
+* Aaron Huynh
 
 ## WEEK 7 (Week of 10 OCT)
 
@@ -43,27 +55,51 @@ The presentations will be given in the order they are listed on the particular d
 
 ## WEEK 8 (Week of 17 OCT)
 
-* Student Presentations
+* Xianyu Zhao
+* William Lee
+* Aidan Conroy
+* Krishna Katakota
+* Steven Zheng
 
 ## WEEK 9 (Week of 24 OCT)
 
-* Student Presentations
+* Austin Johnson
+* Trey Hutson
+* Aidan McHugh
+* Ryder Pham
+* Sachit Anand
 
 ## WEEK 10 (Week of 31 OCT)
 
-* Student Presentations
+* Nathan Barton
+* Kieran Griperay
+* Kiana Kazemi
+* Anish Cheekala
+* Charlie Mattern
 
 ## WEEK 11 (Week of 7 NOV)
 
-* Student Presentations
+* Aaron Gan
+* Danielle Paton
+* Ean Smith
+* Liza Dukhon
+* Emily Durning
 
 ## WEEK 12 (Week of 14 NOV)
 
-* Student Presentations
+* Elizabeth Lee
+* Sean
+* Vladyslav Bordia
+* Insiah Kizilbash
+* Jaclyn Kim
 
 ## WEEK 13 (Week of 21 NOV)
 
-* Student Presentations
+* Ragull Arumugam
+* Ilay Dvir
+* Vivien Lim
+* La Alsulaim
+* Andrew Chen
 
 ## WEEK 14 (Week of 28 NOV)
 
