@@ -94,7 +94,11 @@ The presentations will be given in the order they are listed on the particular d
 
 ## WEEK 13 (Week of 21 NOV)
 
-* Student Presentations
+* Aaron Huynh
+* Sruthi Malineni
+* Praz Nagarajan
+* Nickhil Niranjan
+* Kiro Shaker 
 
 ## WEEK 14 (Week of 28 NOV)
 
@@ -102,7 +106,10 @@ The presentations will be given in the order they are listed on the particular d
 
 ## WEEK 15 (Week of 5 DEC)
 
-* Student Presentations
+* Liam Sullivan
+* Zhenyu Wu
+* Richard Xu
+* Yang Ye
   
 **[[[ Best Capstone Speaker awards ]]]**
 
