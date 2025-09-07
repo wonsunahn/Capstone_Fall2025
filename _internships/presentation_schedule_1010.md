@@ -19,19 +19,35 @@ The presentations will be given in the order they are listed on the particular d
 
 ## WEEK 3 (Week of 12 SEP)
   
-* Student Presentations
+* Logan Snyder
+* Akash Krishan
+* David Shi
+* Nick Ferguson
+* Gabriela Diaz
   
 ## WEEK 4 (Week of 19 SEP)
 
-* Student Presentations
+* Ryan Bloch
+* Rory McCann
+* Ardit Xhemajli
+* Alexander Victoria
+* Rory McCann
 
 ## WEEK 5 (Week of 26 SEP)
 
-* Student Presentations
+* Amanda Cotumaccio
+* Morgan Wessner
+* Graham Smith
+* Mofe Taiwo
+* Mohammed Baled
 
 ## WEEK 6 (Week of 3 OCT)
 
-* Student Presentations
+* Bridget Brinkman
+* Griffin Holcombe
+* Daniel Cheng
+* Sahil Patel
+* Chase Lahner
 
 ## WEEK 7 (Week of 10 OCT)
 
@@ -39,23 +55,42 @@ The presentations will be given in the order they are listed on the particular d
 
 ## WEEK 8 (Week of 17 OCT)
 
-* Student Presentations
+* Annie Dai
+* Holden Gent
+* Haiden Hunter
+* Aileen Alarcon
+* Kamal Kharel
 
 ## WEEK 9 (Week of 24 OCT)
 
-* Student Presentations
+* Jessica Baek
+* Max Wong
+* Colin Byrne
+* Irwin Jiang
+* Patrick McKeever
 
 ## WEEK 10 (Week of 31 OCT)
 
-* Student Presentations
+* Praz Nagarajan
+* Riya Shah
+* Tracey Otgonbayar
+* Matthew Bartie
+* Grace Hines
 
 ## WEEK 11 (Week of 7 NOV)
 
-* Student Presentations
+* Dorothy Crow
+* Eli Worley
+* Summit Dang
+* Jake Kressley
+* Assad Bari
 
 ## WEEK 12 (Week of 14 NOV)
 
-* Student Presentations
+* Ibrahim Miloua
+* Reuben Thomas
+* Aidan O'Shane
+* Siyena Gezahegn
 
 ## WEEK 13 (Week of 21 NOV)
 
