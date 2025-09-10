@@ -31,7 +31,7 @@ The presentations will be given in the order they are listed on the particular d
 * Rory McCann
 * Ardit Xhemajli
 * Alexander Victoria
-* Rory McCann
+* Shanker Pillai
 
 ## WEEK 5 (Week of 26 SEP)
 
