@@ -88,7 +88,7 @@ The presentations will be given in the order they are listed on the particular d
 ## WEEK 12 (Week of 14 NOV)
 
 * Elizabeth Lee
-* Sean
+* Sean Morisoli
 * Vladyslav Bordia
 * Insiah Kizilbash
 * Jaclyn Kim
