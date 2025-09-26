@@ -100,6 +100,7 @@ The presentations will be given in the order they are listed on the particular d
 * Vivien Lim
 * La Alsulaim
 * Andrew Chen
+* Zhanpeng Luo
 
 ## WEEK 14 (Week of 28 NOV)
 
