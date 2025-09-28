@@ -92,6 +92,7 @@ The presentations will be given in the order they are listed on the particular d
 * Vladyslav Bordia
 * Insiah Kizilbash
 * Jaclyn Kim
+* Andrew Chen
 
 ## WEEK 13 (Week of 21 NOV)
 
@@ -99,7 +100,6 @@ The presentations will be given in the order they are listed on the particular d
 * Ilay Dvir
 * Vivien Lim
 * La Alsulaim
-* Andrew Chen
 * Zhanpeng Luo
 
 ## WEEK 14 (Week of 28 NOV)
