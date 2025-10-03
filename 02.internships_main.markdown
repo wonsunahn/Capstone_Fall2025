@@ -21,6 +21,7 @@ presentation, on each week when there is a presentation.  The top scorer
 will receive the [Best Capstone Speaker Award](#peer-review-organization).
 
 |Name|Content Score|Organization Score|Delivery Score|Overall Score|
+| ---- | ------------- | ------------------ | -------------- | ------------- |
 |  | 4.469387755 | 4.510204082 | 4.857142857 | 4.612244898 |
 |  | 4.54 | 4.2 | 4.6 | 4.446666667 |
 |  | 4.291666667 | 4.270833333 | 4.645833333 | 4.402777778 |
