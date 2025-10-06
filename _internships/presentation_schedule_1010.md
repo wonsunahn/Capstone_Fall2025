@@ -92,6 +92,7 @@ The presentations will be given in the order they are listed on the particular d
 * Aidan O'Shane
 * Siyena Gezahegn
 * Zibo Ding
+* Amyia Singh
 
 ## WEEK 13 (Week of 21 NOV)
 
