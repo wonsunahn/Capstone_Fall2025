@@ -71,7 +71,6 @@ The presentations will be given in the order they are listed on the particular d
 
 ## WEEK 10 (Week of 31 OCT)
 
-* Praz Nagarajan
 * Riya Shah
 * Tracey Otgonbayar
 * Matthew Bartie
