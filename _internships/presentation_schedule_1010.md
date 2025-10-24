@@ -75,6 +75,7 @@ The presentations will be given in the order they are listed on the particular d
 * Tracey Otgonbayar
 * Matthew Bartie
 * Grace Hines
+* Ibrahim Miloua
 
 ## WEEK 11 (Week of 7 NOV)
 
@@ -86,7 +87,6 @@ The presentations will be given in the order they are listed on the particular d
 
 ## WEEK 12 (Week of 14 NOV)
 
-* Ibrahim Miloua
 * Reuben Thomas
 * Aidan O'Shane
 * Siyena Gezahegn
