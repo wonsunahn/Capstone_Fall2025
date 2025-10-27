@@ -107,6 +107,7 @@ The presentations will be given in the order they are listed on the particular d
 
 ## WEEK 15 (Week of 5 DEC)
 
+* Calvin Forinash
 * Liam Sullivan
 * Zhenyu Wu
 * Richard Xu
