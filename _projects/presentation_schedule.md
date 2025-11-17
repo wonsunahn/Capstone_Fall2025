@@ -18,7 +18,7 @@ November 14:
 - Demonstrator for CS Dept
 - Tracking and Scheduling System
 
-November 21:
+Dec 4:
 - AI Racing RC Car
 - Borges Site Migration
 - Home Leak Audit App

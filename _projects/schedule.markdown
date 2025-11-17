@@ -24,6 +24,6 @@ As always, keep up with the [University Academic Calendar][university-calendar] 
 | Oct 31   |  No Class   |
 | Nov 7  | Presentations  <br> Retrospective 4 <br> Sprint 5 begins  |
 | Nov 14 | Presentations  |
-| Nov 21 | Presentations   <br> Retrospective 5|
+| Nov 21 | No Class   <br> Retrospective 5|
 | Nov 28 | No Class (Thanksgiving)  |
-| Dec 5  | Final report due, final project demo|
+| Dec 5  | Presentations, Final report due, final project demo|
