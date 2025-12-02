@@ -19,9 +19,9 @@ November 14:
 - Tracking and Scheduling System
 
 Dec 4:
+- Relationship Mining
 - AI Racing RC Car
 - Borges Site Migration
 - Home Leak Audit App
-- Relationship Mining
 - Concept Extraction
 
